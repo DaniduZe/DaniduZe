@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IoT & Software developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniduze&label=Profile%20views&color=0e75b6&style=flat" alt="daniduze" /> </p>
-- 🔭 I’m currently working on **Orel Corporation**
+- 🔭 I’m currently working on <b>Orel Corporation</b>
 
 - 🌱 I'm currently pursuing **BSc. Computer Science**
 
