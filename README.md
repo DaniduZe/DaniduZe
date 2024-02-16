@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Danidu Sennath</h1>
-<h3 align="center">A passionate IoT & Software developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software & IoTdeveloper from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniduze&label=Profile%20views&color=0e75b6&style=flat" alt="daniduze" /> </p>
 - 🔭 I’m currently working on <b>Orel Corporation</b>
